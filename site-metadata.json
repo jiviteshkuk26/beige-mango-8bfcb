@@ -9,12 +9,12 @@
         "nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/index",
                 "style": "link"
             },
             {
                 "label": "Emergence ",
-                "url": "/about",
+                "url": "/emergence",
                 "style": "link"
             },
             {
@@ -28,7 +28,7 @@
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
