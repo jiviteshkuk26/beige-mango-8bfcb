@@ -1,6 +1,6 @@
 ---
 title: Electrical Engineers
-subtitle: This is a short page about electrical engineering
+subtitle: This is a short page about electrical engineers
 img_path: images/about.jpg
 template: page
 ---
