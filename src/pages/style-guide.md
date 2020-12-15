@@ -1,6 +1,6 @@
 ---
 title: My Goals
-subtitle: The is page is about what i want to  in life
+subtitle: The is page is about what I accomplish want to  in life
 img_path: images/style-guide.jpg
 template: page
 ---
