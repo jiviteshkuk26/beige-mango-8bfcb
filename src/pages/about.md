@@ -5,9 +5,7 @@ img_path: images/about.jpg
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I advance from a nuclear lower-middle-class family in New Delhi, India. I am practical-oriented and I prioritize gaining practical knowledge over theoretical knowledge. As a fast learner, I can imbibe fresh skills in a quick time and stick to ethics. Some of my hobbies include computing, 3D modeling, robot combats, flying drones, and experimenting with electronics.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
